@@ -45,8 +45,8 @@ export default function App() {
         <p className="introText">
         <h3>Fundamentals</h3>
         <Typist.Delay ms={900} />
-        Press -> Quotes to get new quotes<br></br>
-        Press -> Tweet to automatically tweet the respective quote.
+        Press: Quotes to get new quotes<br></br>
+        Press: Tweet to automatically tweet the respective quote.
      </p>
         </Typist>
        
