@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quotegen/static/css/main.58f9edfa.css",
+    "main.js": "/quotegen/static/js/main.30897414.js",
+    "static/js/787.69ad31f5.chunk.js": "/quotegen/static/js/787.69ad31f5.chunk.js",
+    "index.html": "/quotegen/index.html",
+    "main.58f9edfa.css.map": "/quotegen/static/css/main.58f9edfa.css.map",
+    "main.30897414.js.map": "/quotegen/static/js/main.30897414.js.map",
+    "787.69ad31f5.chunk.js.map": "/quotegen/static/js/787.69ad31f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58f9edfa.css",
+    "static/js/main.30897414.js"
+  ]
+}
